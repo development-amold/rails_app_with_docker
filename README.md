@@ -1,24 +1,8 @@
-# README
+#Frontend-Rails5-API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. Added CORS gem for allowing cross origin resource sharing
 
-Things you may want to cover:
+2. Added Coins API for angular5
 
-* Ruby version
+3. Generated Rails app with --api mode only
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
