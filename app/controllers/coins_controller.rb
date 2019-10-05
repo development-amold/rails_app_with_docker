@@ -7,6 +7,10 @@ class CoinsController < ApplicationController
     render json: @coins
   end
 
+  def hello
+    render plain: "he he ....it's working ...:)"
+  end
+
   # GET /coins/1
   def show
     render json: @coin
